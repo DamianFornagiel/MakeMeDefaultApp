@@ -17,6 +17,7 @@ enum DefaultAppError: Error {
 
 func printHelp() {
     print("""
+          
     Usage:
       --fileExtension <extension>   File extension (e.g., pdf)
       --bundleID <bundle_id>        Application bundle identifier (e.g., com.adobe.Acrobat.Pro)
