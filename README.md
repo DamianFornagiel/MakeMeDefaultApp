@@ -7,7 +7,7 @@ by Damian Fornagiel
 
 **Introduction**
 
-MakeMeDefaultApp is an open source script that provides administrators with a comprehensive solution to enforce specific application be a default app for specific file type
+MakeMeDefaultApp is an open source script that provides administrators with a comprehensive solution to enforce specific application be a default app for specific file type.
 
 
 
