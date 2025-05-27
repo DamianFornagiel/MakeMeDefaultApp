@@ -15,7 +15,9 @@ MakeMeDefaultApp is an open source script that provides administrators with a co
 **Usage:**
 
   --fileExtension <extension>   File extension (e.g., pdf)
+  
   --bundleID <bundle_id>        Application bundle identifier (e.g., com.adobe.Acrobat.Pro)
+  
   --help                        Show this help message
 
 Example:
