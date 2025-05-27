@@ -24,9 +24,8 @@ func printHelp() {
 
     Example:
       /Library/Management/MakeMeDefaultApp/MakeMeDefaultApp --fileExtension pdf --bundleID com.adobe.Acrobat.Pro
-    
-    You must run the script as the logged-in user when executing it via MDM:
-    
+          
+    You must run the script as the logged-in user when executing it via MDM:   
     userName=$(stat -f "%Su" /dev/console); userID=$(id -u "$userName"); launchctl asuser "$userID" sudo -u "$userName" /Library/Management/MakeMeDefaultApp/MakeMeDefaultApp --fileExtension pdf --bundleID com.adobe.Acrobat.Pro
     
     """)
